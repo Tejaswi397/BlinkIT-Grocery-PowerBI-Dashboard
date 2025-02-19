@@ -33,3 +33,8 @@ Helps in optimizing stock levels for high-demand products.
 Analyzes sales trends of outlets based on their establishment year.
 Determines whether newer outlets are growing faster than older ones.
 Helps in planning future expansion based on outlet performance trends.
+## Key Takeaways
+Regular fat-content items contribute more sales than low-fat items.
+Medium-sized outlets perform better than small and high-sized ones.
+Tier 3 locations generate the most sales, followed by Tier 2 and Tier 1.
+Supermarket Type 1 is the dominant outlet in terms of total revenue and items sold.
